@@ -1,6 +1,6 @@
-# hello_world
+# App ToDoList
 
-A new Flutter project.
+A project with Flutter.
 
 ## Getting Started
 
